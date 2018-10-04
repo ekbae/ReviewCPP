@@ -7,7 +7,7 @@ using namespace std;
 
 void addOne (int &y)
 {
-	cout<<"In Function - "<<y<<" " <<&y <<endl;
+	cout <<"In Function - "<<y<<" " <<&y <<endl;
 }
 
 void getSinCos(double degree, double &sin_out, double &cos_out)
